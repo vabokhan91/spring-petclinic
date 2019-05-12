@@ -62,7 +62,7 @@ git clone https://github.com/spring-projects/spring-petclinic.git
 ```
 File -> Import -> Maven -> Existing Maven project
 ```
-
+a
 Then either build on the command line `./mvnw generate-resources` or using the Eclipse launcher (right click on project and `Run As -> Maven install`) to generate the css. Run the application main method by right clicking on it and choosing `Run As -> Java Application`.
 
 3) Inside IntelliJ IDEA
